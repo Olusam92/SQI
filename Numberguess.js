@@ -19,8 +19,4 @@ function guessNumber () {
         window.alert("Error!");
     }
 }
-// var circle = document.querySelector('button');
-// circle.onclick = function() {
-    
-//   //do
 console.log(guess)
